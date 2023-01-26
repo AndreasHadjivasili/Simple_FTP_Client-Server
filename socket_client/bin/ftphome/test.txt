@@ -1,0 +1,28 @@
+Transmitted = 299846
+Received = 2654
+Ratio = 0.008851210287947813
+
+Transmitted = 300359
+Received = 4248
+Ratio = 0.014143075453041195
+
+Transmitted = 299474
+Received = 3415
+Ratio = 0.011403327166966081
+
+Transmitted = 300002
+Received = 2087
+Ratio = 0.006956620289198072
+
+Transmitted = 299953
+Received = 4582
+Ratio = 0.015275726530489777
+
+
+Transmitted = 299829
+Received = 2365
+Ratio = 0.007887829396089105
+
+Transmitted = 300050
+Received = 3441
+Ratio = 0.011468088651891351
